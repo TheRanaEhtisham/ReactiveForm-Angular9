@@ -2,6 +2,26 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.12.
 
+## Key Features:
+
+### Reactive Forms
+
+### Validations
+
+### Showing and Hiding Validations
+
+### Making Reuseable Input
+
+### Nasty Error Handling
+
+### Adding Message Casses
+
+### Input Masking Custom
+
+### Custom Form Control
+
+### Credit Card Design
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
